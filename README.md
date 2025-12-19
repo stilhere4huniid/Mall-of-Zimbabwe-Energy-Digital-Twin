@@ -38,7 +38,7 @@ We benchmarked three forecasting approaches to validate our financial projection
 To reproduce the results or run the simulation on your local machine, follow these steps:
 
 # 1. Clone the Repository
-
+```bash
 git clone [https://github.com/stilhere4huniid/Mall-of-Zimbabwe-Energy-Digital-Twin.git](https://github.com/stilhere4huniid/Mall-of-Zimbabwe-Energy-Digital-Twin.git)
 cd Mall-of-Zimbabwe-Energy-Digital-Twin
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 # 3. Run the Simulation Launch the Jupyter Notebook to explore the code, re-train the models, and generate new forecasts:
 jupyter notebook Project_Notebook.ipynb
 > Note: The raw data is included in the Data/ folder, so the simulation will run immediately without external downloads.
-
+```
 ## 🛠️ Tech Stack
 Simulation: Python, NumPy (Physics-based diurnal cycles)
 
