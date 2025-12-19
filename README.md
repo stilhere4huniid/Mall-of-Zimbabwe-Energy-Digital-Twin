@@ -34,17 +34,12 @@ We benchmarked three forecasting approaches to validate our financial projection
 │   └── strategic_energy_dashboard.html       (Interactive Dashboard)
 └── Project_Notebook.ipynb  # Full Source Code
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Simulation: Python, NumPy (Physics-based diurnal cycles)
 
 Machine Learning: XGBoost, TensorFlow (Keras), Scikit-Learn
 
 Reporting: Plotly (Dashboards), FPDF (PDF Generation)
-
-📉 Visuals
-1. Model Performance (XGBoost vs. Actual)
-
-2. Financial ROI Strategy
 
 ---
 ## ⚠️ Disclaimer & Tribute
