@@ -62,6 +62,10 @@ Machine Learning: XGBoost, TensorFlow (Keras), Scikit-Learn
 Reporting: Plotly (Dashboards), FPDF (PDF Generation)
 
 ---
+
+## License
+This project is licensed under the MIT License - see the License file for details
+
 ## ⚠️ Disclaimer & Tribute
 This project is an independent **Data Science/Data Analytica Portfolio Simulation** created for educational purposes.
 
