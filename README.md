@@ -27,7 +27,6 @@ We benchmarked three forecasting approaches to validate our financial projection
 * **❌ Prophet (Baseline):** 69.0% Accuracy. Failed to capture complex operational hours.
 
 ## 📂 Project Structure
-```text
 ├── Data/                   # Raw & Calibrated Simulation Data
 ├── Visualizations/         # EDA & Model Performance Charts
 ├── Deliverables/           # Client-Facing Reports
