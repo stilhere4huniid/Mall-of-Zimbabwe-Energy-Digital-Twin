@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db

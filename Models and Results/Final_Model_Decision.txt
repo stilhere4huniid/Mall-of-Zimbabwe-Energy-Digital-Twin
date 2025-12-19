@@ -1,0 +1,9 @@
+FINAL MODEL DECISION REPORT
+===========================
+Winner: XGBoost
+Reason: Lowest Error Rate (MAPE: 2.07%)
+
+                MAE        RMSE      MAPE        R²
+Model                                              
+XGBoost   66.363772  150.077710  2.073413  0.996660
+LSTM     177.904150  302.545706  5.438902  0.986428
