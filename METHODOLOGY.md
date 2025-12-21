@@ -38,7 +38,7 @@ To ensure this simulation represents a realistic "Feasibility Level" study, the 
 ## 📬 Contact the Author
 If you have questions about this simulation or want to discuss Smart City energy strategies:
 
-* **Email:** stilhere4hunnid@gmail.com
+* **Email:** stillhere4hunnid@gmail.com
 * **LinkedIn:** www.linkedin.com/in/adonis-chiruka-70b265323
 * **GitHub:** [https://github.com/stilhere4huniid](https://github.com/stilhere4huniid)
 
