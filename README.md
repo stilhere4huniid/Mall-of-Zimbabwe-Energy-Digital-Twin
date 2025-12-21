@@ -72,3 +72,14 @@ This project is an independent **Data Science/Data Analytica Portfolio Simulatio
 * **The Inspiration:** I am not affiliated with **WestProp Holdings**, but as a Zimbabwean Data Scientist/Data Analyst, I am incredibly excited about their vision for the **Mall of Zimbabwe**. With construction set to begin in **2026**, this project is my personal tribute to what promises to be a landmark development for Harare and the region.
 * **The "Why":** I built this Digital Twin to showcase how modern AI can support ambitious infrastructure projects, simulating the "Smart City" potential of the mall before the first brick is laid.
 * **Data Sources/Transparency:** The data used in this project is **100% synthetic**. It was generated using physics-based simulation algorithms (Python/NumPy) calibrated to industry standards for a 90,000m² regional shopping center. It does **not** contain actual proprietary data from WestProp or their partners.
+
+---
+
+## 📬 Contact the Author
+If you have questions about this simulation or want to discuss Smart City energy strategies:
+
+* **Email:** stilhere4hunnid@gmail.com
+* **LinkedIn:** www.linkedin.com/in/adonis-chiruka-70b265323
+* **GitHub:** [https://github.com/stilhere4huniid](https://github.com/stilhere4huniid)
+
+> *Open to Data Science & Strategic Analyst collaborations.*  
